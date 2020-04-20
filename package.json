@@ -1,0 +1,29 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5"
+  },
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vakabunga/ajs_secondhomework.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Vakabunga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vakabunga/ajs_secondhomework/issues"
+  },
+  "homepage": "https://github.com/vakabunga/ajs_secondhomework#readme"
+}
